@@ -8,7 +8,6 @@ This project implements an LSTM (Long Short-Term Memory) model for predicting ca
 
 The project is organized into the following folders:
 
-- `data`: Contains the dataset used for training and testing the LSTM model and the integers to strings (itos) of my 33 categories
 - `preprocessing`: Includes scripts for preprocessing the data before feeding it into the model.
 - `training`: Includes scripts for training the LSTM model using the preprocessed data.
 - `testing`: Contains scripts for evaluating the performance of the trained LSTM model.
